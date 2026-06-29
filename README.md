@@ -13,7 +13,6 @@
 |------|------|
 | 📅 진행 기간 | 2025 |
 | 👥 팀 구성 | 7인 팀 프로젝트 |
-| 🏆 수상 | 영남대학교 SW중심대학 융합그룹 실무 경진대회 우수상 |
 | 🔗 GitHub | [game-s-cord](https://github.com/SB135246/game-s-cord) |
 
 <br>
@@ -23,7 +22,7 @@
 | 분류 | 기술 |
 |------|------|
 | **Backend** | Java, Spring Boot |
-| **Frontend** | JavaScript, CSS, HTML |
+| **Frontend** | JavaScript, CSS, HTML, React |
 | **Database** | MySQL |
 | **협업** | Git, GitHub |
 
